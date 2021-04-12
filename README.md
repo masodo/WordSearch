@@ -1,4 +1,8 @@
 # Word Search
+masodo adaptation for use in PracticalLightning/IBP Arcade system. Utilizes timed gameplay - shortest time wins!
+http://deburger.com/ARCADE/index.php?play=WordSearch_masodo#playzone
+
+Thanks LRusso ;)
 
 Word Search game in JavaScript.
 
